@@ -1,16 +1,16 @@
-primary_name: "Your Name"
+primary_name: "XinZhang(Elena)"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "XinZhang(Elena)"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Senior Product Manager, Intelligent Driving
+- name: Operations Lead, Physical Retail Growth
+- name: AI Vibe Coding Independent Builder
 
 
-email: "your@email.com"
+email: "zhangxin_1376@163.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: xFmQpf4AAAAJ  # Academic simulation placeholder
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -22,12 +22,13 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    XinZhang(Elena) is positioned as a cross-domain practitioner spanning intelligent driving products, physical retail operations, and AI-native product experimentation.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Research and practice interests include: (1) AI Agentic Workflows, including multi-agent collaboration, RAG logic, and LLM-based task decomposition; (2) intelligent driving systems, including data annotation platform refactoring, vehicle calibration workflow optimization, and algorithm-support integration; (3) data-driven growth powered by LLMs for cross-border marketing, short-video SOP pipelines, and private-domain conversion logic; and (4) agile AI development toolchains centered on Cursor, Firecrawl, DeepSeek, and Gemini.
+  </p>
+  <p>
+    Professional profile: a senior intelligent driving product manager with two years of platform refactoring and 0-1 product delivery experience; an operations lead responsible for market growth and content strategy for physical stores; and an AI Vibe Coding independent builder focused on interesting application prototypes and SOP automation frameworks.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,16 +36,14 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Xiamen University
+  logo: /assets/images/badges/Xiamen_University.jpg
+  position: M.S. in Biomedical Engineering
+  date: Academic timeline not publicly disclosed (simulation label)
+- name: Southwest Petroleum University
+  logo: /assets/images/badges/Southwest_Petroleum_University.jpg
+  position: B.Eng. in Polymer Materials and Engineering
+  date: Academic timeline not publicly disclosed (simulation label)
 
 # experience:
 # - name: Peking University
@@ -52,10 +51,4 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+awards: []
